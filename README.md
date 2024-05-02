@@ -36,14 +36,13 @@ This is a simple Login API built using Node.js and Express.js. It lets a user lo
 
 6. Username - admin ; Password - password
 
-## Images
+## Video Walkthrough 
 
-![25AC6BCD-F070-4A50-988D-C61D52C07E60](https://github.com/Enigma-52/Login-API/assets/95529619/40bd9c5d-37f0-4e98-86e0-4aec0357f71b)
-
-
+I have changed the inactivity timer to 4 seconds for making this video.
 
 
-![4BB67FC2-8E5E-4AE7-892B-E232898DFBBC](https://github.com/Enigma-52/Login-API/assets/95529619/edbfa7e1-47eb-4fb7-9566-a034ac349e61)
+![E037F910-3AE4-4624-BB08-3C5965FBE7EF_4_5005_c](https://github.com/Enigma-52/Login-API/assets/95529619/7ad0c94a-a1f3-4579-86dd-d9f96e85a5bd)
+
 
 
 ## Usage
