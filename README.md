@@ -40,9 +40,7 @@ This is a simple Login API built using Node.js and Express.js. It lets a user lo
 
 I have changed the inactivity timer to 4 seconds for making this video.
 
-
-![E037F910-3AE4-4624-BB08-3C5965FBE7EF_4_5005_c](https://github.com/Enigma-52/Login-API/assets/95529619/7ad0c94a-a1f3-4579-86dd-d9f96e85a5bd)
-
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Lk7Ltwtc3Bw)
 
 
 ## Usage
