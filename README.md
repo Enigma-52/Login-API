@@ -40,7 +40,7 @@ This is a simple Login API built using Node.js and Express.js. It lets a user lo
 
 I have changed the inactivity timer to 4 seconds for making this video.
 
-[<img src="https://www.youtube.com/watch?v=Lk7Ltwtc3Bw" width="50%">](https://www.youtube.com/watch?v=Lk7Ltwtc3Bw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Lk7Ltwtc3Bw/0.jpg)](https://www.youtube.com/watch?v=Lk7Ltwtc3Bw)
 
 
 ## Usage
