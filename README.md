@@ -34,7 +34,7 @@ This is a simple Login API built using Node.js and Express.js. It lets a user lo
 
 5. **Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access the application.**
 
-6. Username - admin ; Password - password
+6. Username - admin || Password - password
 
 ## Video Walkthrough 
 
