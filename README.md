@@ -44,7 +44,7 @@ I have changed the inactivity timer to 4 seconds for making this video - https:/
 
 - Users can login through the `/api/login`.
 - Users can logout through the `/api/logout`.
-- Inactivity timer of 2 minutes after Login
+- Inactivity timer of 2 minutes starts after Login
 
 ## Directory Structure
 
